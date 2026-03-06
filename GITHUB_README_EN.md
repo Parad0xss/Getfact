@@ -2,8 +2,8 @@
 
 # Getfact
 
-[![English](https://img.shields.io/badge/lang-English-blue)](GITHUB_README_EN.md)
-[![中文](https://img.shields.io/badge/lang-中文-red)](GITHUB_README.md)
+[![English](https://img.shields.io/badge/lang-English-blue)](README_EN.md)
+[![中文](https://img.shields.io/badge/lang-中文-red)](README.md)
 
 **Cross-Platform Automated Security Incident Response Data Collection & Analysis Tool**
 
