@@ -391,9 +391,11 @@ Run Agent on the target host → Transfer the generated `.json` file to a Window
 
 ## 📄 License
 
-**Proprietary License** — This software is not open source and is authorized for use only.
+** Disclaimer** 
 
-Copying, modifying, or distributing any part of this software without written authorization is prohibited.
+This software is for technical exchange and educational purposes only. The author shall not be held liable for any direct or indirect damages or losses (including but NOT limited to data loss, system failure, or legal issues) resulting from the use of this software.
+
+Please ensure compliance with local laws and regulations before use. Your use of this software constitutes your agreement to these terms.
 
 ---
 
